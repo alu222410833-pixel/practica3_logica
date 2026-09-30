@@ -6,8 +6,8 @@
 **Docente:** MDTI Marco Antonio Romero Rodríguez
 
 **Integrantes:**
-- (Nombre del integrante 1)
-- (Nombre del integrante 2)
+- Jose Carlos De La Cruz Vazquez 
+- 
 
 ## Estructura del repositorio
 
@@ -92,10 +92,13 @@ p | q | r | R1 | R2
 0 | 0 | 0 | 1  | 1
 ```
 
-## Evidencias manuales
+## Evidencias
 
-- (Agregar aquí el PDF legible del cuaderno con las tablas resueltas a mano)
-- (Agregar capturas de la salida de cada programa)
+Todas las evidencias (tablas de verdad resueltas a mano en el
+cuaderno y capturas de la salida de cada programa) se concentran
+en un solo documento:
+
+[Ver evidencias (PDF)](evidencias/evidencias.pdf)
 
 ## Cuestionario
 
@@ -143,5 +146,4 @@ que no controlas.
 
 ## Conclusiones
 
-- (Conclusión del integrante 1 — mínimo media cuartilla)
-- (Conclusión del integrante 2 — mínimo media cuartilla)
+- 
